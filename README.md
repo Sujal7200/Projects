@@ -1,53 +1,75 @@
-📄 Sujal More's Resume
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/N83AyFxR)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16962607)
+# 📄 Sujal More
+
+## Description
+
 Welcome to my resume repository! This repository showcases my educational background, technical skills, projects, experience, and professional involvement in the field of Computer Science.
 
-🎓 Education
-BS. Computer Science
-University of Texas at Arlington, Arlington, TX
 
-GPA: 3.67
-Expected Graduation: Dec 2025
-Relevant Coursework: Algorithms & Data Structures, Object-Oriented Programming, Computer Organization, Linear Algebra for CSE, Operating Systems, Fundamentals of Software Engineering
-💻 Skills & Interests
-Programming Languages: C, C++, Java, Python, Kotlin, HTML, JavaScript (Intermediate)
-Databases: MongoDB, SQL
-Software: Microsoft 365, Adobe Suite, Filmora 9 & X
-Soft Skills: Project Management, Critical Thinking, Leadership, Customer Service, Problem Solving
-Career Interests: Data Science, Quantitative Finance, Supply Chain Management, Software Development, Automotive Simulations
+## 🎓 Education BS. Computer Science University of Texas at Arlington, Arlington, TX 
+GPA: 3.67 
+Expected Graduation: Dec 2025 
+Relevant Coursework: Algorithms & Data Structures, Object-Oriented Programming, Computer Organization, Linear Algebra for CSE, Operating Systems, Fundamentals of Software Engineering 
 
-🔧 Projects
-Unix Shell Project
-Developed as part of coursework at the University of Texas at Arlington (Sep 2024 – Oct 2024)
 
-Built a Unix shell supporting 1000+ commands with advanced C programming and system-level features.
-Integrated process management using fork(), execv(), and wait(), and supported I/O redirection and built-in commands like cd, exit, and quit.
-Conducted rigorous testing and error validation to ensure reliable performance.
-Automated Engineering Tour Scheduling Software
-University of Texas at Arlington (Jun 2024 – Jul 2024)
+## 💻 Skills & Interests 
+Programming Languages: C, C++, Java, Python, Kotlin,
+Databases: MongoDB 
+Languages Spoken: English, Marathi, Hindi 
+Tools & Technologies: GitHub, GCC, GDB, LINUX/UNIX, PyCharm, Eclipse, VSCode
+Soft Skills: Project Management, Critical Thinking, Leadership, Customer Service, Problem Solving 
 
-Created an automated tool using Selenium for web automation and Pandas for data processing.
-Increased scheduling efficiency by 50%, halving the required time.
-Integrated with Microsoft Forms and email systems for seamless booking.
-Exponential Moving Average (EMA) Algorithmic Trading Bot
-Collaborative project (Mar 2024 – Jul 2024)
 
-Designed an EMA-based trading bot, achieving an average ROI of 12% over 6 months.
-Incorporated real-time market data APIs and conducted extensive backtesting for optimization.
-🏆 Experience
-Team Lead, Engineering Student Ambassadors
-The University of Texas at Arlington (Oct 2023 - Present)
+## 🔧 Projects
 
-Led tours and outreach initiatives, managing events for up to 200 participants and engaging 1000+ students monthly.
-ASC Tutor
-Academic Success Center, UT Arlington (Aug 2023 - Present)
+### FAT32 File System Shell Application (Nov 2024-Nov 2024)
+- Built a user-space shell in C++ to parse and manipulate FAT32 file system images.
+- Implemented 15+ commands (e.g., open, get, put, read) with zero data corruption.
+- Validated functionality across 20+ scenarios for robust and efficient file handling.
 
-Developed 100+ personalized lesson plans, leading to a 60% improvement in student performance.
-🥇 Awards & Involvement
-Golden Key International Honor Society, Member (Oct 2024)
-Arlington Chamber of Commerce & Pettinger Foundation Scholarship (Jan 2024)
-Student Ambassador, BLACKBOX AI (Sep 2024)
-Association of Computer Machinery (ACM), Students in Computing & AI (Aug 2024)
-📬 Connect with Me
-Email: sujalm7200@gmail.com
-LinkedIn: Sujal More
-Feel free to explore my resume and reach out for any opportunities or collaborations!
+### Unix Shell Implementation (Sep 2024 – Oct 2024)
+- Developed a custom Unix shell supporting 1000+ commands and built-in utilities like cd and exit.
+- Used fork(), execv(), and wait() for process management and I/O redirection.
+- Optimized for error handling and compatibility with GitHub Codespaces.
+
+### Automated Engineering Tour Scheduling Software (Jun 2024 – Jul 2024)
+- Automated scheduling tasks with Python, cutting processing time by 50%.
+- Utilized Selenium for web automation and Pandas for data handling.
+- Integrated booking with Microsoft Forms and email systems for seamless operations.
+
+### EMA Algorithmic Trading Bot (Mar 2024 – Jul 2024)
+- Designed a trading bot implementing the Exponential Moving Average (EMA) strategy.
+- Achieved a 12% ROI over six months with 95% trade execution accuracy.
+- Incorporated risk management and reduced drawdown by 8% through backtesting.
+
+
+## 🏆 Experience
+
+### Team Lead, Engineering Student Ambassadors (Oct 2023 - Present)
+#### Office of Dean of Engineering			          		                 
+#### The University of Texas at Arlington, Arlington, TX 
+- Directed a team of 15+ ambassadors to execute guided tours and outreach events, engaging over 1,000 prospective students monthly.
+- Delivered presentations to audiences of up to 200, showcasing engineering programs and boosting enrollment inquiries by 25%.
+- Optimized tour scheduling and operations, achieving a 100% event success rate and high satisfaction feedback.
+
+### Academic Tutor, Academic Success Center
+#### Academic Success Center             
+#### The University of Texas at Arlington, Arlington, TX
+- Created 100+ customized lesson plans, leading to a 60% improvement in student performance and confidence.
+- Mentored 50+ students across various subjects, tailoring strategies to individual learning styles for measurable results.
+- Provided ongoing academic support, ensuring consistent progress and mastery of challenging topics.
+
+
+## 🥇 Awards & Involvement
+
+- Golden Key International Honor Society (Oct 2024)
+- Arlington Chamber of Commerce & Pettinger Foundation Scholarship (Jan 2024)
+- Student Ambassador, BLACKBOX AI (Sep 2024)
+- Association for Computing Machinery (ACM) (Aug 2024)
+- Students in Computing & AI (SCAI) (Aug 2024)
+
+## 📬 Connect with Me
+- Email: sujalm7200@gmail.com
+- LinkedIn: [![Sujal More](linkedin.com/in/sujalmore/ )
+- Feel free to explore my resume and reach out for any opportunities or collaborations!
