@@ -5,18 +5,18 @@
 Welcome to my resume repository! This repository showcases my educational background, technical skills, projects, experience, and professional involvement in the field of Computer Science.
 
 
-## 🎓 Education BS. Computer Science University of Texas at Arlington, Arlington, TX 
-GPA: 3.67 
-Expected Graduation: Dec 2025 
-Relevant Coursework: Algorithms & Data Structures, Object-Oriented Programming, Computer Organization, Linear Algebra for CSE, Operating Systems, Fundamentals of Software Engineering 
+## 🎓 Education BS. Computer Science, University of Texas at Arlington, Arlington, TX 
+- GPA: 3.67 
+- Expected Graduation: Dec 2025 
+- Relevant Coursework: Algorithms & Data Structures, Object-Oriented Programming, Computer Organization, Linear Algebra for CSE, Operating Systems, Fundamentals of Software Engineering 
 
 
 ## 💻 Skills & Interests 
-Programming Languages: C, C++, Java, Python, Kotlin,
-Databases: MongoDB 
-Languages Spoken: English, Marathi, Hindi 
-Tools & Technologies: GitHub, GCC, GDB, LINUX/UNIX, PyCharm, Eclipse, VSCode
-Soft Skills: Project Management, Critical Thinking, Leadership, Customer Service, Problem Solving 
+- Programming Languages: C, C++, Java, Python, Kotlin,
+- Databases: MongoDB 
+- Languages Spoken: English, Marathi, Hindi
+- Tools & Technologies: GitHub, GCC, GDB, LINUX/UNIX, PyCharm, Eclipse, VSCode
+- Soft Skills: Project Management, Critical Thinking, Leadership, Customer Service, Problem Solving 
 
 
 ## 🔧 Projects
