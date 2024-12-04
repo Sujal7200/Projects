@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/N83AyFxR)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16962607)
 # 📄 Sujal More
 
 ## Description
@@ -47,15 +45,15 @@ Soft Skills: Project Management, Critical Thinking, Leadership, Customer Service
 ## 🏆 Experience
 
 ### Team Lead, Engineering Student Ambassadors (Oct 2023 - Present)
-#### Office of Dean of Engineering			          		                 
-#### The University of Texas at Arlington, Arlington, TX 
+Office of Dean of Engineering			          		                 
+The University of Texas at Arlington, Arlington, TX 
 - Directed a team of 15+ ambassadors to execute guided tours and outreach events, engaging over 1,000 prospective students monthly.
 - Delivered presentations to audiences of up to 200, showcasing engineering programs and boosting enrollment inquiries by 25%.
 - Optimized tour scheduling and operations, achieving a 100% event success rate and high satisfaction feedback.
 
 ### Academic Tutor, Academic Success Center
-#### Academic Success Center             
-#### The University of Texas at Arlington, Arlington, TX
+Academic Success Center             
+The University of Texas at Arlington, Arlington, TX
 - Created 100+ customized lesson plans, leading to a 60% improvement in student performance and confidence.
 - Mentored 50+ students across various subjects, tailoring strategies to individual learning styles for measurable results.
 - Provided ongoing academic support, ensuring consistent progress and mastery of challenging topics.
