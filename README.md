@@ -6,7 +6,8 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 
 ## 🎓 Education BS. Computer Science, University of Texas at Arlington, Arlington, TX 
-- GPA: 3.67 
+- GPA: 3.69
+- Cybersecurity Certificate 
 - Expected Graduation: Dec 2025 
 - Relevant Coursework: Algorithms & Data Structures, Object-Oriented Programming, Computer Organization, Linear Algebra for CSE, Operating Systems, Fundamentals of Software Engineering 
 
@@ -20,6 +21,11 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 
 ## 🔧 Projects
+
+### Expense 8 Puzzle Solver(Feb 2025-Feb2025)
+-Implemented BFS, UCS, Greedy Search, and A* for a cost-based 8-puzzle.
+-Optimized A* and Greedy Search heuristic by refining Manhattan Distance.
+-Built a CLI tool with detailed search metrics and trace logging.
 
 ### FAT32 File System Shell Application (Nov 2024-Nov 2024)
 - Built a user-space shell in C++ to parse and manipulate FAT32 file system images.
