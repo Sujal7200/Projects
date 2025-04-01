@@ -9,7 +9,7 @@ Welcome to my resume repository! This repository showcases my educational backgr
 - GPA: 3.69
 - Cybersecurity Certificate 
 - Expected Graduation: Dec 2025 
-- Relevant Coursework: Algorithms & Data Structures, Object-Oriented Programming, Computer Organization, Linear Algebra for CSE, Operating Systems, Fundamentals of Software Engineering 
+- Relevant Coursework: Algorithms & Data Structures, Object-Oriented Programming, Computer Organization, Linear Algebra for CSE, Operating Systems, Fundamentals of Software Engineering, Database Syatems & File Structures, Artifical Intelligence
 
 
 ## 💻 Skills & Interests 
