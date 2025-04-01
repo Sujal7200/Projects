@@ -1,7 +1,8 @@
-# Expense 8 Puzzle Solver
+# Red-Blue Nim Game Solver
 
 ## Overview
-The **Expense 8 Puzzle Solver** is a Python-based game implementation using the **Minimax Algorithm with Alpha-Beta Pruning**. It involves two players taking turns to pick red and blue marbles according to predefined rules. The objective depends on the selected game mode: `standard` or `misere`.
+
+This project implements a two-player version of the **Red-Blue Nim** game where the game is played with two piles of marbles, one red and one blue. It is a Python-based game playing problem implementation that utilizes the Minimax Algorithm with Alpha-Beta Pruning. It involves two players taking turns to pick red and blue marbles according to predefined rules. The objective depends on the selected game mode:
 
 ## Features
 - **Minimax Algorithm**: Implements an optimal decision-making process for the computer player.
@@ -56,9 +57,8 @@ This starts the game with 5 red and 6 blue marbles in **standard mode**, with th
 
 ## Author
 - **Sujal More**
-- Contact: [sujalm7002@gmail.com](mailto:sujalm7002@gmail.com)
+- Contact: [sujalm7200@gmail.com](mailto:sujalm7200@gmail.com)
 - License: Personal License © 2025 Sujal More
 
 ## License
 This code is for **educational and personal use only**. Unauthorized copying, distribution, or commercial use is prohibited without explicit permission from the author.
-
