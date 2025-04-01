@@ -46,7 +46,7 @@ Both files must contain a 3x3 grid of integers, with `0` representing the blank 
 
 ## License
 
-This project is licensed under the **Personal License**. Unauthorized copying, distribution, or commercial use of this code, in whole or in part, without explicit permission from the author, is strictly prohibited. For permissions or inquiries, please contact [sujalm7002@gmail.com](mailto:sujalm7002@gmail.com).
+This project is licensed under the **Personal License**. Unauthorized copying, distribution, or commercial use of this code, in whole or in part, without explicit permission from the author, is strictly prohibited. For permissions or inquiries, please contact [sujalm7200@gmail.com](mailto:sujalm7200@gmail.com).
 
 ## Acknowledgements
 
