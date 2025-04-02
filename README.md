@@ -22,10 +22,15 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 ## 🔧 Projects
 
+### Red-Blue Nim AI Agent(Mar 2025-Mar 2025)
+- Engineered a MinMax-based AI with Alpha-Beta Pruning to play Red-Blue Nim, optimizing move selection for up to 100% efficiency in decision-making.
+- Implemented strategic move ordering and game-state evaluation, reducing computation time by 50% while ensuring optimal play in both standard and misère versions.
+- Developed a command-line interface allowing human-computer interaction, dynamically updating game state and scoring with real-time feedback.
+  
 ### Expense 8 Puzzle Solver(Feb 2025-Feb2025)
--Implemented BFS, UCS, Greedy Search, and A* for a cost-based 8-puzzle.
--Optimized A* and Greedy Search heuristic by refining Manhattan Distance.
--Built a CLI tool with detailed search metrics and trace logging.
+- Implemented BFS, UCS, Greedy Search, and A* for a cost-based 8-puzzle.
+- Optimized A* and Greedy Search heuristic by refining Manhattan Distance.
+- Built a CLI tool with detailed search metrics and trace logging.
 
 ### FAT32 File System Shell Application (Nov 2024-Nov 2024)
 - Built a user-space shell in C++ to parse and manipulate FAT32 file system images.
