@@ -13,35 +13,35 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 
 ## 💻 Skills & Interests 
-- Programming Languages: C, C++, Java, Python, Kotlin,
-- Databases: MongoDB 
+- Programming Languages: C, Python, C++, Java, Kotlin(Basic)
+- Databases: MongoDB, Basic SQL
 - Languages Spoken: English, Marathi, Hindi
-- Tools & Technologies: GitHub, GCC, GDB, LINUX/UNIX, PyCharm, Eclipse, VSCode
+- Tools & Technologies: GitHub, GCC, GDB, LINUX/UNIX, PyCharm, Eclipse, VSCode, Oracle VM
 - Soft Skills: Project Management, Critical Thinking, Leadership, Customer Service, Problem Solving 
 
 
 ## 🔧 Projects
 
-### Cloud-Based Inventory Management App  
+### Cloud-Based Inventory Management App(Apr 2025)
 **Technologies:** Python · Streamlit · MongoDB · PyMongo  
 - Real-Time Inventory Tracking: Developed a secure, cloud-based inventory system supporting **3+ physical locations**, with user authentication and persistent session state for seamless tracking.  
 - User-Friendly Custom IDs: Created human-readable, custom item IDs based on item name and location to improve software usability for non-technical users.  
 - Optimized CRUD Operations: Implemented dynamic **CRUD functionality** with a responsive UI, reducing item update time by **50%** through streamlined workflows and auto-filled forms.  
 - Scalable Backend: Leveraged **MongoDB** and **PyMongo** to build a scalable backend, enabling low-latency data retrieval and seamless performance under concurrent user access.
 
-### Red-Blue Nim AI Agent(Mar 2025-Mar 2025)
+### Red-Blue Nim AI Agent(Mar 2025)
 **Technologies:** Python · Minimax Algorithm · Game Theory
 - Engineered a MinMax-based AI with Alpha-Beta Pruning to play Red-Blue Nim, optimizing move selection for up to 100% efficiency in decision-making.
 - Implemented strategic move ordering and game-state evaluation, reducing computation time by 50% while ensuring optimal play in both standard and misère versions.
 - Developed a command-line interface allowing human-computer interaction, dynamically updating game state and scoring with real-time feedback.
   
-### Expense 8 Puzzle Solver(Feb 2025-Feb2025)
+### Expense 8 Puzzle Solver(Feb2025)
 **Technologies:** Python · A* Search · Breadth-First Search (BFS) · Heuristics · Priority Queues
 - Implemented BFS, UCS, Greedy Search, and A* for a cost-based 8-puzzle.
 - Optimized A* and Greedy Search heuristic by refining Manhattan Distance.
 - Built a CLI tool with detailed search metrics and trace logging.
 
-### FAT32 File System Shell Application (Nov 2024-Nov 2024)
+### FAT32 File System Shell Application (Nov 2024)
 **Technologies:** C · File Systems · Data Structures · Memory Management
 - Built a user-space shell in C++ to parse and manipulate FAT32 file system images.
 - Implemented 15+ commands (e.g., open, get, put, read) with zero data corruption.
