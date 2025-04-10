@@ -22,32 +22,45 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 ## 🔧 Projects
 
+### Cloud-Based Inventory Management App  
+**Technologies:** Python · Streamlit · MongoDB · PyMongo  
+- Real-Time Inventory Tracking: Developed a secure, cloud-based inventory system supporting **3+ physical locations**, with user authentication and persistent session state for seamless tracking.  
+- User-Friendly Custom IDs: Created human-readable, custom item IDs based on item name and location to improve software usability for non-technical users.  
+- Optimized CRUD Operations: Implemented dynamic **CRUD functionality** with a responsive UI, reducing item update time by **50%** through streamlined workflows and auto-filled forms.  
+- Scalable Backend: Leveraged **MongoDB** and **PyMongo** to build a scalable backend, enabling low-latency data retrieval and seamless performance under concurrent user access.
+
 ### Red-Blue Nim AI Agent(Mar 2025-Mar 2025)
+**Technologies:** Python · Minimax Algorithm · Game Theory
 - Engineered a MinMax-based AI with Alpha-Beta Pruning to play Red-Blue Nim, optimizing move selection for up to 100% efficiency in decision-making.
 - Implemented strategic move ordering and game-state evaluation, reducing computation time by 50% while ensuring optimal play in both standard and misère versions.
 - Developed a command-line interface allowing human-computer interaction, dynamically updating game state and scoring with real-time feedback.
   
 ### Expense 8 Puzzle Solver(Feb 2025-Feb2025)
+**Technologies:** Python · A* Search · Breadth-First Search (BFS) · Heuristics · Priority Queues
 - Implemented BFS, UCS, Greedy Search, and A* for a cost-based 8-puzzle.
 - Optimized A* and Greedy Search heuristic by refining Manhattan Distance.
 - Built a CLI tool with detailed search metrics and trace logging.
 
 ### FAT32 File System Shell Application (Nov 2024-Nov 2024)
+**Technologies:** C · File Systems · Data Structures · Memory Management
 - Built a user-space shell in C++ to parse and manipulate FAT32 file system images.
 - Implemented 15+ commands (e.g., open, get, put, read) with zero data corruption.
 - Validated functionality across 20+ scenarios for robust and efficient file handling.
 
 ### Unix Shell Implementation (Sep 2024 – Oct 2024)
+**Technologies:** C · UNIX · Shell Scripting · System Programming
 - Developed a custom Unix shell supporting 1000+ commands and built-in utilities like cd and exit.
 - Used fork(), execv(), and wait() for process management and I/O redirection.
 - Optimized for error handling and compatibility with GitHub Codespaces.
 
 ### Automated Engineering Tour Scheduling Software (Jun 2024 – Jul 2024)
+**Technologies:** Python · Web Development · Scheduling Algorithms
 - Automated scheduling tasks with Python, cutting processing time by 50%.
 - Utilized Selenium for web automation and Pandas for data handling.
 - Integrated booking with Microsoft Forms and email systems for seamless operations.
 
 ### EMA Algorithmic Trading Bot (Mar 2024 – Jul 2024)
+**Technologies:** Python · Pandas · NumPy · Matplotlib
 - Designed a trading bot implementing the Exponential Moving Average (EMA) strategy.
 - Achieved a 12% ROI over six months with 95% trade execution accuracy.
 - Incorporated risk management and reduced drawdown by 8% through backtesting.
