@@ -2,7 +2,7 @@
  * Personal License
  * 
  * Author: Sujal More
- * Project: AutomatedTourScheduling Software
+ * Project: Automated Tour Scheduling Software
  * 
  * This code is provided solely for educational and
  * personal use. Unauthorized copying, distribution,
@@ -11,9 +11,9 @@
  * is strictly prohibited.
  * 
  * For permissions or inquiries, please contact:
- * sujalm7002@gmail.com
+ * sujalm7200@gmail.com
  * 
- * © 2024 Sujal More. All rights reserved.
+ * © 2025 Sujal More. All rights reserved.
 """
 
 
