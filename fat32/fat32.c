@@ -11,7 +11,7 @@
  * is strictly prohibited.
  *
  * For permissions or inquiries, please contact:
- * sujalm7002@gmail.com
+ * sujalm7200@gmail.com
  *
  * © 2025 Sujal More. All rights reserved.
  */
