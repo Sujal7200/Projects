@@ -22,25 +22,25 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 ## 🔧 Projects
 
-### Cloud-Based Inventory Management App(Apr 2025)
+### 1. Cloud-Based Inventory Management App(Apr 2025)
 **Technologies:** Python · Streamlit · MongoDB · PyMongo  
 
-### Red-Blue Nim AI Agent(Mar 2025)
+### 2. Red-Blue Nim AI Agent(Mar 2025)
 **Technologies:** Python · Minimax Algorithm · Game Theory
 
-### Expense 8 Puzzle Solver(Feb2025)
+### 3. Expense 8 Puzzle Solver(Feb2025)
 **Technologies:** Python · A* Search · Breadth-First Search (BFS) · Heuristics · Priority Queues
 
-### FAT32 File System Shell Application (Nov 2024)
+### 4. FAT32 File System Shell Application (Nov 2024)
 **Technologies:** C · File Systems · Data Structures · Memory Management
 
-### Unix Shell Implementation (Sep 2024 – Oct 2024)
+### 5. Unix Shell Implementation (Sep 2024 – Oct 2024)
 **Technologies:** C · UNIX · Shell Scripting · System Programming
 
-### Automated Engineering Tour Scheduling Software (Jun 2024 – Jul 2024)
+### 6. Automated Engineering Tour Scheduling Software (Jun 2024 – Jul 2024)
 **Technologies:** Python · Web Development · Scheduling Algorithms
 
-### EMA Algorithmic Trading Bot (Mar 2024 – Jul 2024)
+### 7. EMA Algorithmic Trading Bot (Mar 2024 – Jul 2024)
 **Technologies:** Python · Pandas · NumPy · Matplotlib
 
 
