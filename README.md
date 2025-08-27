@@ -6,7 +6,7 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 
 ## 🎓 Education BS. Computer Science, University of Texas at Arlington, Arlington, TX 
-- GPA: 3.74
+- GPA: 3.75
 - Cybersecurity Certificate 
 - Expected Graduation: Dec 2025 
 - Relevant Coursework: Algorithms & Data Structures, Object-Oriented Programming, Computer Organization, Linear Algebra for CSE, Operating Systems, Fundamentals of Software Engineering, Database Syatems & File Structures, Artifical Intelligence
@@ -22,25 +22,31 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 ## 🔧 Projects
 
-### 1. Cloud-Based Inventory Management App(Apr 2025)
+### 1. Cryptographic Utility Platform (Aug 2025)
+**Technologies:** Python · Streamlit · MongoDB · PyMongo
+
+### 2. STEG — Streamlit Steganography Toolkit (Jul 2025 - Aug 2025)
+**Technologies:** Python · Streamlit · MongoDB · PyMongo
+
+### 3. Cloud-Based Inventory Management App(Apr 2025)
 **Technologies:** Python · Streamlit · MongoDB · PyMongo  
 
-### 2. Red-Blue Nim AI Agent(Mar 2025)
+### 4. Red-Blue Nim AI Agent(Mar 2025)
 **Technologies:** Python · Minimax Algorithm · Game Theory
 
-### 3. Expense 8 Puzzle Solver(Feb2025)
+### 5. Expense 8 Puzzle Solver(Feb2025)
 **Technologies:** Python · A* Search · Breadth-First Search (BFS) · Heuristics · Priority Queues
 
-### 4. FAT32 File System Shell Application (Nov 2024)
+### 6. FAT32 File System Shell Application (Nov 2024)
 **Technologies:** C · File Systems · Data Structures · Memory Management
 
-### 5. Unix Shell Implementation (Sep 2024 – Oct 2024)
+### 7. Unix Shell Implementation (Sep 2024 – Oct 2024)
 **Technologies:** C · UNIX · Shell Scripting · System Programming
 
-### 6. Automated Engineering Tour Scheduling Software (Jun 2024 – Jul 2024)
+### 8. Automated Engineering Tour Scheduling Software (Jun 2024 – Jul 2024)
 **Technologies:** Python · Web Development · Scheduling Algorithms
 
-### 7. EMA Algorithmic Trading Bot (Mar 2024 – Jul 2024)
+### 9. EMA Algorithmic Trading Bot (Mar 2024 – Jul 2024)
 **Technologies:** Python · Pandas · NumPy · Matplotlib
 
 
