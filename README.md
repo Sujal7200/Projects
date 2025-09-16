@@ -22,10 +22,10 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 ## 🔧 Projects
 
-### 1. Cryptographic Utility Platform (Aug 2025)
+### 1. Cryptographic Utility Platform (Aug 2025) [Website Link](https://hashcrypt.streamlit.app/)
 **Technologies:** Python · Streamlit · MongoDB · PyMongo
 
-### 2. STEG — Streamlit Steganography Toolkit (Jul 2025 - Aug 2025)
+### 2. STEG — Streamlit Steganography Toolkit (Jul 2025 - Aug 2025) [Website Link](https://stegassignment.streamlit.app/)
 **Technologies:** Python · Streamlit · MongoDB · PyMongo
 
 ### 3. Cloud-Based Inventory Management App(Apr 2025)
