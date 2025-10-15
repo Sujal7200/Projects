@@ -36,8 +36,8 @@ This project is designed to be clear to read, easy to run, and good for learning
 - CORS, dotenv
 
 **Deployment**
-- Frontend: Vercel
-- Backend: Render
+- Frontend: GitHub Pages, Netlify, Render Static Sites, or serve from Express
+- Backend: Render Web Service (free) or any Node host
 - Database: MongoDB Atlas (M0 free tier)
 
 ---
@@ -76,47 +76,55 @@ sprintlite/
 ---
 
 
-## Deployment (Vercel + Render + Atlas)
+## Environment
 
-1) **Database (MongoDB Atlas)**
-   - Create an M0 cluster
-   - Add a database user
-   - Allow your IP (or 0.0.0.0/0 for development)
-   - Copy the SRV connection string as `MONGO_URI`
+Create `server/.env` for local development:
+```
+PORT=4000
+MONGO_URI=mongodb+srv://<USER>:<PASSWORD>@<CLUSTER>/<DBNAME>?retryWrites=true&w=majority
+```
 
-2) **Backend (Render)**
-   - Create a new Web Service
-   - Root directory: `server`
-   - Build command: `npm i`
-   - Start command: `npm start`
-   - Environment variables:
-     - `MONGO_URI=<your Atlas URI>`
-     - `NODE_ENV=production` (optional)
-   - After deploy, note your API base URL, for example:
-     - `https://sprintlite-api.onrender.com/api`
+Create `web/.env` for local development:
+```
+VITE_API_URL=http://localhost:4000/api
+```
 
-3) **Frontend (Vercel)**
-   - Import the repo as a Vercel project
-   - Root directory: `web`
-   - Framework preset: Vite
-   - Environment variables (Build and Runtime):
-     - `VITE_API_URL=https://sprintlite-api.onrender.com/api`
-   - Deploy and note your Vercel URL
+Never commit real secrets. In production, set environment variables in your hosting providers.
 
-4) **CORS on the server**
-   - In `server/src/app.js`, allow your Vercel origin:
-   ```js
-   app.use(cors({
-     origin: ["http://localhost:5173", "https://YOUR-VERCEL-APP.vercel.app"],
-   }));
-   ```
+---
+
+## Backend Deployment (Render or similar)
+
+1) Create a new Web Service and point it to `server`  
+2) Build command: `npm i`  
+3) Start command: `npm start`  
+4) Environment variables:
+   - `MONGO_URI=<your Atlas URI>`
+   - `NODE_ENV=production` (optional)
+
+After deploy, your API base is similar to:
+```
+https://<your-render-service>.onrender.com/api
+```
+
+Update CORS in `server/src/app.js` to allow your chosen frontend origin:
+```js
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "https://<your-frontend-domain>"
+  ]
+}));
+```
+
+If you serve the frontend from Express (Option D), you can use `origin: true` or remove CORS for same-origin calls.
 
 ---
 
 ## API
 
 Base URL (local): `http://localhost:4000/api`  
-Base URL (prod): `https://<your-render-service>.onrender.com/api`
+Base URL (prod): `https://<your-backend-domain>/api`
 
 ### Issues
 - `GET /issues`  
