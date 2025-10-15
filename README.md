@@ -16,7 +16,7 @@ Welcome to my resume repository! This repository showcases my educational backgr
 - Programming Languages: C, Python, C++, Java, Kotlin(Basic)
 - Databases: MongoDB, Basic SQL
 - Languages Spoken: English, Marathi, Hindi
-- Tools & Technologies: GitHub, GCC, GDB, LINUX/UNIX, PyCharm, Eclipse, VSCode, Oracle VM
+- Tools & Technologies: GitHub, GCC, GDB, LINUX/UNIX, React, Node.js, Express.js, PyCharm, Eclipse, VSCode, Oracle VM
 - Soft Skills: Project Management, Critical Thinking, Leadership, Customer Service, Problem Solving 
 
 
