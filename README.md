@@ -6,15 +6,15 @@ Welcome to my resume repository! This repository showcases my educational backgr
 
 
 ## 🎓 Education BS. Computer Science, University of Texas at Arlington, Arlington, TX 
-- GPA: 3.75
-- Cybersecurity Certificate 
-- Expected Graduation: Dec 2025  
+- GPA: 3.80
+- Cybersecurity Certificate
+- Graduation: Dec 2025  
 - Relevant Coursework: Algorithms & Data Structures, Object-Oriented Programming, Computer Organization, Linear Algebra for CSE, Operating Systems, Fundamentals of Software Engineering, Database Syatems & File Structures, Artifical Intelligence, Information Security
 
 
 ## 💻 Skills & Interests 
 - Programming Languages: C, Python, C++, Java, Kotlin(Basic)
-- Databases: MongoDB, Basic SQL
+- Databases: MongoDB, SQL
 - Languages Spoken: English, Marathi, Hindi
 - Tools & Technologies: GitHub, GCC, GDB, LINUX/UNIX, React, Node.js, Express.js, PyCharm, Eclipse, VSCode, Oracle VM
 - Soft Skills: Project Management, Critical Thinking, Leadership, Customer Service, Problem Solving 
