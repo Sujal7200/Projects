@@ -1,5 +1,7 @@
 # 📄 Sujal More
 
+## > ⚠️ This repository has been archived. All projects have moved to [Portfolio-Projects](https://github.com/Sujal7002/Portfolio-Projects.git).
+
 ## Description
 
 Welcome to my resume repository! This repository showcases my educational background, technical skills, projects, experience, and professional involvement in the field of Computer Science.
